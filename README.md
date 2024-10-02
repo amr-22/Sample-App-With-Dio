@@ -1,16 +1,8 @@
-# sample_app_with_dio
+# Sample App With Dio & Retrofit
 
-A new Flutter project.
+- build class to get data from json with toJson and fromJson function  ==>  [EX](./lib/user.dart)
 
-## Getting Started
+- build our webservice class that have our requests  ==> [EX](./lib/web_service.dart)
 
-This project is a starting point for a Flutter application.
+- build rebository class to call from ui and use web service functions  ==>[EX](./lib/my_repo.dart)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
